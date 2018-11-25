@@ -1,0 +1,81 @@
+{
+  "fleets":[
+    {
+      "name": "Fleet1"
+    },
+    {
+      "name": "Fleet2"
+    },
+    {
+      "name": "Fleet3"
+    },
+    {
+      "name": "Fleet4"
+    },
+    {
+      "name": "Fleet5"
+    }
+  ],
+  "vehicles": [
+    {
+      "name": "Vehicle1",
+      "fleetId": 1
+    },
+    {
+      "name": "Vehicle2",
+      "fleetId": 2
+    },
+    {
+      "name": "Vehicle3",
+      "fleetId": 3
+    },
+    {
+      "name": "Vehicle4",
+      "fleetId": 4
+    },
+    {
+      "name": "Vehicle5",
+      "fleetId": 5
+    },
+    {
+      "name": "Vehicle6",
+      "fleetId": 1
+    },
+    {
+      "name": "Vehicle7",
+      "fleetId": 1
+    }
+  ],
+  "motions": [
+    {
+      "latitude":  51.5103,
+      "longitude": 7.49347,
+      "time": "2018-07-12 12:35:10",
+      "vehicleId": 1
+    },
+    {
+      "latitude": 51.515,
+      "longitude": 7.453619,
+      "time": "2018-07-12 14:48:12",
+      "vehicleId": 2
+    },
+    {
+      "latitude": 51.515,
+      "longitude": 7.453619,
+      "time": "2018-07-13 10:00:09",
+      "vehicleId": 1
+    },
+    {
+      "latitude": 52.53,
+      "longitude": 7.78361,
+      "time": "2018-07-13 00:56:12",
+      "vehicleId": 2
+    },
+    {
+      "latitude": 55.751667,
+      "longitude": 37.617778,
+      "time": "2018-07-14 07:09:00",
+      "vehicleId": 1
+    }
+  ]
+}
